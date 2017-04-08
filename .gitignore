@@ -1,0 +1,5 @@
+.cache
+__pycache__
+settings.sublime-project
+settings.sublime-workspace
+venv
