@@ -6,7 +6,7 @@
 
 ## Usage
 
-**setmeup.from_env** is a decorator tat takes a class and overrides its fields with data from environment variables. That's pretty much all API.
+**setmeup.from_env** is a decorator that takes a class and overrides its fields with data from environment variables. That's pretty much all API.
 
 ```python
 import setmeup
