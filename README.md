@@ -1,4 +1,4 @@
-# setmeup
+# setmeup [![Build Status](https://travis-ci.org/szastupov/setmeup.svg?branch=master)](https://travis-ci.org/szastupov/setmeup)
 
 ## Installation
 
