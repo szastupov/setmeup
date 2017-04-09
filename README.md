@@ -1,5 +1,9 @@
 # setmeup
 
+## Installation
+
+    $ pip install setmeup
+
 ## Usage
 
 **setmeup.from_env** is a decorator tat takes a class and overrides its fields with data from environment variables. That's pretty much all API.
