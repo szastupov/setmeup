@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 from setuptools import setup
 
+version = open('VERSION').read().strip()
+
 setup(
     name='setmeup',
-    version='0.1',
+    version=version,
     description='Runtime settings for minimalists',
     url='https://github.com/szastupov/setmeup',
     license='MIT',
